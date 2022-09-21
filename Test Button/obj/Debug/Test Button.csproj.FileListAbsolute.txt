@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\Test Button\Test Button\obj\Debug\Test Button.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Test Button\Test Button\obj\Debug\Test Button.csproj.SuggestedBindingRedirects.cache
+C:\Users\krist\source\repos\Test Button\Test Button\obj\Debug\Test_Button.Form1.resources
+C:\Users\krist\source\repos\Test Button\Test Button\obj\Debug\Test_Button.Properties.Resources.resources
+C:\Users\krist\source\repos\Test Button\Test Button\obj\Debug\Test Button.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\Test Button\Test Button\obj\Debug\Test Button.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Test Button\Test Button\bin\Debug\Test Button.exe.config
+C:\Users\krist\source\repos\Test Button\Test Button\bin\Debug\Test Button.exe
+C:\Users\krist\source\repos\Test Button\Test Button\bin\Debug\Test Button.pdb
+C:\Users\krist\source\repos\Test Button\Test Button\obj\Debug\Test Button.exe
+C:\Users\krist\source\repos\Test Button\Test Button\obj\Debug\Test Button.pdb
