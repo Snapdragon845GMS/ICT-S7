@@ -19,8 +19,9 @@ namespace WindowsFormsApplication1
 
         private void button_sum_Click(object sender, EventArgs e)
         {
-            int num1 = 2;
-            int num2 = 3;
+            Random rnd = new Random();
+            int num1 = rnd.Next();
+            int num2 = rnd.Next()
             int sum = num1 + num2;
             MessageBox.Show($"The sum of {num1} and {num2} is {sum}.");
         }
