@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\obj\Debug\Ejercicio 6 V2.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\obj\Debug\Ejercicio 6 V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\obj\Debug\Ejercicio_6_V2.Properties.Resources.resources
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\obj\Debug\Ejercicio 6 V2.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\obj\Debug\Ejercicio 6 V2.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\bin\Debug\Ejercicio 6 V2.exe.config
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\bin\Debug\Ejercicio 6 V2.exe
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\bin\Debug\Ejercicio 6 V2.pdb
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\obj\Debug\Ejercicio_6_V2.Form1.resources
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\obj\Debug\Ejercicio 6 V2.exe
+C:\Users\krist\source\repos\Ejercicio 6 V2\Ejercicio 6 V2\obj\Debug\Ejercicio 6 V2.pdb
