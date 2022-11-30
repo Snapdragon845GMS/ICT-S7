@@ -19,16 +19,16 @@ namespace Ejercicio8
 
         private void Boperar_Click(object sender, EventArgs e)
         {
-            //leemos las variables iniciales
+            
             int num1 = Int32.Parse(Tnum1.Text);
             int num2 = Int32.Parse(Tnum2.Text);
             int num3 = Int32.Parse(Tnum3.Text);
 
-            //operamos con las variables
+            
             int sum = num1 + num2 + num3;
             int mult = num1 * num2 * num3;
 
-            //mostramos cada operacion en su label
+            
             Lsuma.Text = sum.ToString();
             Lmultiplicacion.Text = mult.ToString();
         
