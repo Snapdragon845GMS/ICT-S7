@@ -1,0 +1,9 @@
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csprojResolveAssemblyReference.cache
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.Form1.resources
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.Properties.Resources.resources
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.GenerateResource.Cache
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\luca.plouvier\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
