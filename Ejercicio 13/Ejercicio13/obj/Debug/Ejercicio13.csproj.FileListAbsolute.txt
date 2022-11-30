@@ -1,0 +1,11 @@
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csproj.AssemblyReference.cache
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.Form1.resources
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.Properties.Resources.resources
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csproj.GenerateResource.cache
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\lucap\Desktop\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.pdb
