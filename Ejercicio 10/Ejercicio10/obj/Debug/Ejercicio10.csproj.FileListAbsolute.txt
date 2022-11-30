@@ -1,0 +1,9 @@
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojResolveAssemblyReference.cache
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Form1.resources
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.Cache
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\luca.plouvier\Desktop\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
