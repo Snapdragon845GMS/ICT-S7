@@ -19,18 +19,18 @@ namespace Ejercicio10
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //definimos nuestras variables
+            
             int num1 = Int32.Parse(Teuros.Text);
-            //hacemos la conversion a pesetas
+            
             double res = num1 * 166.368;
             Tpesetas.Text = res.ToString();
         }
 
         private void Beuros_Click(object sender, EventArgs e)
         {
-            //definimos nuestras variables
+            
             int num2 = Int32.Parse(Tpesetas.Text);
-            //hacemos la conversion a pesetas
+            
             double res = num2 / 166.368;
             Teuros.Text = res.ToString();
         }
